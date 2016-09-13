@@ -1,0 +1,112 @@
+
+<!--
+Automatically created by Tomcat JspC.
+Place this fragment in the web.xml before all icon, display-name,
+description, distributable, and context-param elements.
+-->
+
+    <servlet>
+        <servlet-name>org.apache.jsp.DepsRecord_jsp</servlet-name>
+        <servlet-class>org.apache.jsp.DepsRecord_jsp</servlet-class>
+    </servlet>
+
+    <servlet>
+        <servlet-name>org.apache.jsp.EmpDetail_jsp</servlet-name>
+        <servlet-class>org.apache.jsp.EmpDetail_jsp</servlet-class>
+    </servlet>
+
+    <servlet>
+        <servlet-name>org.apache.jsp.DepsGrid_jsp</servlet-name>
+        <servlet-class>org.apache.jsp.DepsGrid_jsp</servlet-class>
+    </servlet>
+
+    <servlet>
+        <servlet-name>org.apache.jsp.EmpsGrid_jsp</servlet-name>
+        <servlet-class>org.apache.jsp.EmpsGrid_jsp</servlet-class>
+    </servlet>
+
+    <servlet>
+        <servlet-name>org.apache.jsp.AdminMenu_jsp</servlet-name>
+        <servlet-class>org.apache.jsp.AdminMenu_jsp</servlet-class>
+    </servlet>
+
+    <servlet>
+        <servlet-name>org.apache.jsp.Header_jsp</servlet-name>
+        <servlet-class>org.apache.jsp.Header_jsp</servlet-class>
+    </servlet>
+
+    <servlet>
+        <servlet-name>org.apache.jsp.Common_jsp</servlet-name>
+        <servlet-class>org.apache.jsp.Common_jsp</servlet-class>
+    </servlet>
+
+    <servlet>
+        <servlet-name>org.apache.jsp.EmpsRecord_jsp</servlet-name>
+        <servlet-class>org.apache.jsp.EmpsRecord_jsp</servlet-class>
+    </servlet>
+
+    <servlet>
+        <servlet-name>org.apache.jsp.Default_jsp</servlet-name>
+        <servlet-class>org.apache.jsp.Default_jsp</servlet-class>
+    </servlet>
+
+    <servlet>
+        <servlet-name>org.apache.jsp.Login_jsp</servlet-name>
+        <servlet-class>org.apache.jsp.Login_jsp</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>org.apache.jsp.DepsRecord_jsp</servlet-name>
+        <url-pattern>/DepsRecord.jsp</url-pattern>
+    </servlet-mapping>
+
+    <servlet-mapping>
+        <servlet-name>org.apache.jsp.EmpDetail_jsp</servlet-name>
+        <url-pattern>/EmpDetail.jsp</url-pattern>
+    </servlet-mapping>
+
+    <servlet-mapping>
+        <servlet-name>org.apache.jsp.DepsGrid_jsp</servlet-name>
+        <url-pattern>/DepsGrid.jsp</url-pattern>
+    </servlet-mapping>
+
+    <servlet-mapping>
+        <servlet-name>org.apache.jsp.EmpsGrid_jsp</servlet-name>
+        <url-pattern>/EmpsGrid.jsp</url-pattern>
+    </servlet-mapping>
+
+    <servlet-mapping>
+        <servlet-name>org.apache.jsp.AdminMenu_jsp</servlet-name>
+        <url-pattern>/AdminMenu.jsp</url-pattern>
+    </servlet-mapping>
+
+    <servlet-mapping>
+        <servlet-name>org.apache.jsp.Header_jsp</servlet-name>
+        <url-pattern>/Header.jsp</url-pattern>
+    </servlet-mapping>
+
+    <servlet-mapping>
+        <servlet-name>org.apache.jsp.Common_jsp</servlet-name>
+        <url-pattern>/Common.jsp</url-pattern>
+    </servlet-mapping>
+
+    <servlet-mapping>
+        <servlet-name>org.apache.jsp.EmpsRecord_jsp</servlet-name>
+        <url-pattern>/EmpsRecord.jsp</url-pattern>
+    </servlet-mapping>
+
+    <servlet-mapping>
+        <servlet-name>org.apache.jsp.Default_jsp</servlet-name>
+        <url-pattern>/Default.jsp</url-pattern>
+    </servlet-mapping>
+
+    <servlet-mapping>
+        <servlet-name>org.apache.jsp.Login_jsp</servlet-name>
+        <url-pattern>/Login.jsp</url-pattern>
+    </servlet-mapping>
+
+<!--
+All session-config, mime-mapping, welcome-file-list, error-page, taglib,
+resource-ref, security-constraint, login-config, security-role,
+env-entry, and ejb-ref elements should follow this fragment.
+-->
